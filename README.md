@@ -19,4 +19,6 @@
 
 [Урок_10](https://diversiz.github.io/lesson_10/lesson_10.less) - LESS
 
+[Урок_11](https://diversiz.github.io/lesson_11/index.html) - Снипеты
+
 
