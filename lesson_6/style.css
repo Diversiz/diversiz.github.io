@@ -1,0 +1,13 @@
+.blok{
+  width: 300px;
+  height: 400px;
+  padding: 20px 30px 20px 30px;
+  box-sizing: border-box;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  margin-left: -150px;
+  margin-top: -200px;
+  background: #fff;
+  border: 2px solid #9b9b9b;
+}
