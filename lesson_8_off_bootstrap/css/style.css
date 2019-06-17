@@ -1,0 +1,73 @@
+body{background: #282828; margin: 0; padding: 0; box-sizing: border-box;}
+
+.container-flex{
+	max-width: 1600px;
+	background: #fff;
+	text-align: center;
+	margin: 5% auto;
+    padding: 80px auto;
+/*	border: 2px solid red;*/
+}
+.flex{
+	width: 1140px;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	align-items: center; 
+	text-align: center;
+	margin: 0 auto;
+    padding-bottom: 175px;
+/*	border: 2px solid red;*/
+}
+.item img{
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+	margin-top: 32px;
+	height: 160px;
+}
+.item{margin: 0 auto;}
+
+.item-text{text-transform: uppercase; font-size: 36px; padding: 118px 0 90px 0; }
+
+span{display: inline-block; text-align: center; padding-top: 32px; vertical-align: bottom;}
+
+/*@media запросы*/
+/*///////////////xl 1140///////////////*/
+@media(max-width: 1140px)
+{
+    .flex{width: 1000px;}
+    
+    .item img
+    {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        text-align: center;
+        margin: 0 42px;
+    }
+}
+/*///////////////lg 960///////////////*/
+@media(max-width: 960px)
+{
+    .flex{width: 720px;}
+    
+    .item img
+    {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        text-align: center;
+        margin: 0 62px;
+    }
+}
+/*///////////////md-sm 720-540///////////////*/
+@media(max-width: 720px)
+{
+    .flex{ width: 80%; display: block;}
+    
+	.item img{ height: 100%; margin: 0 auto;}
+    
+    .item{width: 80%;}
+}
+

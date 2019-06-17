@@ -1,0 +1,33 @@
+body{background: #282828;}
+
+.container
+{
+	max-width: 1600px;
+	background: #fff;
+	text-align: center;
+	margin: 5% auto;
+    padding: 80px auto;
+}
+
+.flex{padding-bottom: 175px;}
+
+.row
+{
+	max-width: 1140px;
+	margin: 0 auto;
+}
+
+.item img
+{
+	width: 100%;
+	margin-top: 32px;
+	padding: 15px;
+}
+
+.item span{margin: 0 auto;}
+
+.text_center p{margin: 0 auto;}
+
+p{text-transform: uppercase; font-size: 36px; padding: 118px 0 90px 0; }
+
+span{display: block;}
