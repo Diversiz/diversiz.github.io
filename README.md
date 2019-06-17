@@ -1,9 +1,13 @@
 # Дмитрий Орленко
 Мои домашние задания
 
-[Урок_3](https://diversiz.github.io/%D0%A3%D1%80%D0%BE%D0%BA_3.jpg) - Работа с графикой
+[Урок_3](https://diversiz.github.io/lesson_3/lesson_3.jpg) - Работа с графикой
 
-[Урок_4](https://diversiz.github.io/lesson_4/index.html) - Свертаная книжка с позиционированием menu и fotter
+[Урок_4](https://diversiz.github.io/lesson_4/index.html) - Свертаная книжка 
+
+[Урок_5](https://diversiz.github.io/lesson_5/index.html) - Свертаная книжка с закрипленным меню
+
+[Урок_6](https://diversiz.github.io/lesson_6/index.html) - Позиционирование обьекта
 
 [Урок_7](https://diversiz.github.io/lesson_7/index.html) - Первый сайт на html+css
 
