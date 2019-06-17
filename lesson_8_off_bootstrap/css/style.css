@@ -6,7 +6,6 @@ body{background: #282828; margin: 0; padding: 0; box-sizing: border-box;}
 	text-align: center;
 	margin: 5% auto;
     padding: 80px auto;
-/*	border: 2px solid red;*/
 }
 .flex{
 	width: 1140px;
@@ -17,7 +16,6 @@ body{background: #282828; margin: 0; padding: 0; box-sizing: border-box;}
 	text-align: center;
 	margin: 0 auto;
     padding-bottom: 175px;
-/*	border: 2px solid red;*/
 }
 .item img{
 	display: flex;
