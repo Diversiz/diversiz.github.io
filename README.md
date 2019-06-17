@@ -1,7 +1,7 @@
 # Дмитрий Орленко
 Мои домашние задания
 
-[Урок_3](https://diversiz.github.io/lesson_3/lesson_3.jpg) - Работа с графикой
+[Урок_3](https://diversiz.github.io/lesson_3/lesson_3.jpg) - Настройка рабочего пространства
 
 [Урок_4](https://diversiz.github.io/lesson_4/index.html) - Свертаная книжка 
 
