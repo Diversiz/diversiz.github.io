@@ -3,7 +3,7 @@
 
 [Урок_3](https://diversiz.github.io/%D0%A3%D1%80%D0%BE%D0%BA_3.jpg) - Работа с графикой
 
-[Урок_4_5_6](https://diversiz.github.io/lesson_4_5_6/index.html) - Свертаная книжка с позиционированием menu и fotter
+[Урок_4](https://diversiz.github.io/lesson_4/index.html) - Свертаная книжка с позиционированием menu и fotter
 
 [Урок_7](https://diversiz.github.io/lesson_7/index.html) - Первый сайт на html+css
 
