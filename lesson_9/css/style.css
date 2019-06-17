@@ -1,0 +1,19 @@
+.section-1{margin-bottom: 150px;}
+.section-2{margin-bottom: 60px;}
+
+.big-img{margin-bottom: 34px;}
+.smal-img{height: 80px; margin-bottom: 56px;}
+
+
+.form-text span{margin: 43px auto;}
+.form-group{border: 5px solid #3c3cdd; padding: 34px;}
+.form-control{margin-bottom: 20px;}
+
+.btn{margin-bottom: 28px; width: 100%;}
+.btn-two{margin: 34px auto;}
+
+.video{margin-bottom: 34px;}
+
+span, h3{font-family: Tahoma, serif; font-weight: 300;}
+strong, h1{ margin-bottom: 50px; font-family: Tahoma, serif; font-weight: 900;}
+p{margin-top: 30px;}
