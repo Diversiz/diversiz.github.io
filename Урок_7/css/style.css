@@ -1,0 +1,17 @@
+*{box-sizing: border-box;}
+body{font-family: Tahoma, sans-serif; color: #333333;}
+.section{text-align: center; font-size: 24px; line-height: 1.8; margin-top: 100px;}
+.section span{display: block; font-weight: 300;}
+.section strong{font-weight: 900; text-transform: uppercase;}
+.section h1{margin-bottom: 75px;}
+.icon{display: inline-block; margin: 80px 50px;}
+.video, .form{display: inline-block;}
+.form{border: 5px solid #2727d9; vertical-align: top; padding: 22.5px 22px; margin-left: 30px;}
+input{width: 300px; display: block; margin: 10px auto; padding: 16px 8px; font-size: 18px;}
+.form h2{padding-bottom: 10px;}
+.btn{background: #3c3cdd; border: none; color: #fff;}
+.title{margin-top: 140px; text-transform: uppercase; font-weight: 800}
+.title_client{text-transform: uppercase; font-weight: 800; margin-bottom: 65px; margin-top: 200px;}
+.client img{margin: 15px 20px;}
+.client_wrep{margin-bottom: 100px;}
+
