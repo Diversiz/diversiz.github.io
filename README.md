@@ -7,5 +7,5 @@
 
 [Урок_8](https://diversiz.github.io/lesson_8_on_bootstrap/index.html) - Наши приимущества - Сетка bootstrap
 
-[Урок_8](https://diversiz.github.io/lesson_8_off_bootstrap/index.html) - Наши приимущества - Медиа запрсы
+[Урок_8](https://diversiz.github.io/lesson_8_off_bootstrap/index.html) - Наши приимущества - Медиа запрсы + flex-box
 
