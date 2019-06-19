@@ -21,6 +21,6 @@
 
 [Урок_11](https://diversiz.github.io/lesson_11/index.html) - Снипеты
 
-[Урок_13](diversiz.github.io/lesson_13/index.html) - Форма
+[Урок_13](https://diversiz.github.io/lesson_13/index.html) - Форма
 
 
